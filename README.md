@@ -23,3 +23,9 @@ Negli anni gli studenti hanno accomulato appunti, esercizi, libri e tanto altro.
  - [libgen](https://libgen.is/) (richiede una vps o tor)
  - [Megathread con link vari](https://github.com/fmhy/FMHY/wiki/%F0%9F%A7%A0-Educational), qua trovate molte informazioni e servizi
 
+
+
+
+
+# Cos'è $\LaTeX$ ?
+# Cos'è Github?
