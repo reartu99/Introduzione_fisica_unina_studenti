@@ -74,8 +74,7 @@ Il sito su cui questa guida è ubicata si chiama Github, generalmente
 
  - Non ho superato il TOLC, cosa devo fare?
 	 - Nulla di cui preoccuparsi, si ha tempo fino ad ottobre inoltrato per consegnare il TOLC
-	 - Ma anche se non lo si supera si possono comunque seguire i corsi, immatricolarsi e persino dare esami,
-	 - L'unico svantaggio è che si sarà obbligati a dare analisi I prima di poter dare qualunque altro esame
+	 - Ma anche se non lo si supera si possono comunque seguire i corsi ed immatricolarsi. Il TOLC è però obbligatorio e deve essere svolto al più presto
+	 - Altre informazioni importanti sul TOLC si trovano a questo [link](http://www.fisica.unina.it/documents/12375590/12932662/Guida+all%27iscrizione+al+CdL+Fisica/4e5996ae-e827-4eb9-b14d-cf29b37ee05b)
  - Entro quando bisogna immatricolarsi?
 	 - Le iscrizioni aprono il 17 luglio e chiudono il 31 ottobre quest'anno (23-24), le date precise si possono trovare sul sito del dipartimento
-	 - Altre informazioni importanti sul TOLC si trovano a questo [link](http://www.fisica.unina.it/documents/12375590/12932662/Guida+all%27iscrizione+al+CdL+Fisica/4e5996ae-e827-4eb9-b14d-cf29b37ee05b)
