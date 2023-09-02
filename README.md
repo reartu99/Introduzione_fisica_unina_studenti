@@ -48,6 +48,7 @@ La federico II ha un numero di siti diversi ed oguno ha una funzione diversa, ce
  - [My federico II](https://www.ssignon.unina.it/openam/UI/Login), su questo sito potrete oltre che calcolare la vostra media, accedere alla mail istituzionale che vi verrà fornita
  - [Sito di dipartimento](http://www.fisica.unina.it/), il sito del dipartimento di fisica dove vengono postati avvisi, documenti, calendari e molto altro
  - Teams, è consuetudine per i professori creare delle classi su teams dove pubblicare avvisi interni al corso e risorse varie
+ - Ed ultimo ma non per importanza la pagina instagram dei rappresentanti @fisica_unina , non esitate a contattare per qualunque richiesta o domanda!
 
 ## Risorse
 Negli anni gli studenti hanno accomulato appunti, esercizi, libri e tanto altro. Adesso queste risorse sono a vostra disposizione
@@ -55,19 +56,32 @@ Negli anni gli studenti hanno accomulato appunti, esercizi, libri e tanto altro.
  - [Drive pubblico appunti](https://drive.google.com/drive/u/0/folders/1qUsEV0m9lZ7UUE9Ln4Jn-QVobMBA_mxx)
  - [Drive pubblico libri](https://drive.google.com/drive/folders/19yOipAlV1icpgvSQ8SiWo53djpPDjJmw)
  - Appunti in latex curati da me
-	 - Analisi I
-	 - Laboratorio
-	 - Meccanica e termodinamica
-	 - Geometria
-	 - Informatica, ed inoltre è presente una pagina github con alcuni esercizi in python svolti
+	 - [Analisi I](https://www.overleaf.com/read/njtcndwjkvqd)
+	 - [Meccanica e termodinamica](https://www.overleaf.com/read/drkpxywxbxzk)
+	 - [Geometria](https://www.overleaf.com/read/mkgmqsqyhzvf) (Work in progress)
+	 - Informatica, ed inoltre è presente una [pagina github con alcuni esercizi in python svolti](https://github.com/reartu99/Esercizi_booklet_informatica)
  
- Se i libro da voi cercato non è presente nei link presentati vi preghiamo di non usufruire di pirateria per trovarlo. La pirateria è un reato grave e per questo vi segnalo una lista di siti da cui dovete stare alla larga se volete evitarla **a scopo puramente informativo** [Megathread con link vari](https://github.com/fmhy/FMHY/wiki/%F0%9F%A7%A0-Educational).
+ Se i libro da voi cercato non è presente nei link presentati vi preghiamo di non usufruire di pirateria per trovarlo. La pirateria è un reato grave e per questo vi segnalo una [lista di siti da cui dovete stare alla larga](https://github.com/fmhy/FMHY/wiki/%F0%9F%A7%A0-Educational) se volete evitarla, **a scopo puramente informativo eh!**
 
 
 
 ## Cos'è $\LaTeX$ ?
+
 ## Cos'è Github?
-Il sito su cui questa guida è ubicata si chiama Github, generalmente 
+Il sito su cui questa guida è ubicata si chiama Github, generalmente è usato per hostare programmi e codice e rendere possibile a più persone contemporaneamente di lavorare su di esso tramite il protocollo git.
+
+
+## Rapporto con i compagni
+I compagni di corso sono la risorsa più importante che avrete.
+Siamo tutti nella stessa barca, è un corso difficile e proprio per questo non abbiate paura di chiedere aiuto, sia ai vostri compagni di corso sia ai ragazzi di altri gruppi o anni.
+
+Se avete bisogno di una mano non esistate a chiedere in giro nelle aule studio e sarete sorpresi dalla disponibilità delle persone!
+
+## Luoghi dell'università
+### Aule studio
+Nel dipartimento di fisica sono presenti due aule studio che vi verranno mostrate durante il primo giorno, siete liberi di usarle per studiare o prendere in prestito i libri che si trovano negli armadi.
+###  Laboratori
+Nel dipartimento di fisica, vicino al pendolo di Focault, si trovano i laboratori dove svolgerete le esperienze di laboratorio del primo anno.
 
 
 ## FAQ
@@ -77,4 +91,5 @@ Il sito su cui questa guida è ubicata si chiama Github, generalmente
 	 - Ma anche se non lo si supera si possono comunque seguire i corsi ed immatricolarsi. Il TOLC è però obbligatorio e deve essere svolto al più presto
 	 - Altre informazioni importanti sul TOLC si trovano a questo [link](http://www.fisica.unina.it/documents/12375590/12932662/Guida+all%27iscrizione+al+CdL+Fisica/4e5996ae-e827-4eb9-b14d-cf29b37ee05b)
  - Entro quando bisogna immatricolarsi?
-	 - Le iscrizioni aprono il 17 luglio e chiudono il 31 ottobre quest'anno (23-24), le date precise si possono trovare sul sito del dipartimento
+	 - Le iscrizioni aprono il 17 luglio e chiudono il 31 ottobre quest'anno (23-24)
+
