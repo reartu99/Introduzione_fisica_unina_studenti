@@ -80,6 +80,7 @@ Negli anni gli studenti hanno accomulato appunti, esercizi, libri e tanto altro.
 
 
 ## Cos'è $\LaTeX$ ?
+Video tutorial su come uare latex per chi volesse provare.
 
 
 
@@ -98,8 +99,11 @@ Nel dipartimento di fisica, vicino al pendolo di Focault, si trovano i laborator
 ### Mense
 Nel complesso di Monte San't Angelo ci sono varie mense dove potrete mangiare
 ### Aule C (5,6,7,8,9)
+video su come raggiungerle
 ### Aula T 6
+video su come raggiungerle
 ### Aule F (1,2)
+video su come raggiungerle
 
 
 ## FAQ
