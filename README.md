@@ -101,7 +101,7 @@ Nel complesso di Monte San't Angelo ci sono varie mense dove potrete mangiare o 
 ### Aule C (5,6,7,8,9)
 video su come raggiungerle
 ### Aula T 6
-video su come raggiungerle
+[Come raggiungere l'aula T6](https://youtu.be/7pbMJF__YhQ)
 ### Aule F (1,2)
 video su come raggiungerle
 
