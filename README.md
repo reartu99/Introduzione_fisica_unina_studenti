@@ -97,7 +97,7 @@ Nel dipartimento di fisica sono presenti due aule studio che vi verranno mostrat
 Nel dipartimento di fisica, vicino al pendolo di Focault, si trovano i laboratori dove svolgerete le esperienze di laboratorio del primo anno.
 
 ### Mense
-Nel complesso di Monte San't Angelo ci sono varie mense dove potrete mangiare
+Nel complesso di Monte San't Angelo ci sono varie mense dove potrete mangiare o acquistare snack.
 ### Aule C (5,6,7,8,9)
 video su come raggiungerle
 ### Aula T 6
