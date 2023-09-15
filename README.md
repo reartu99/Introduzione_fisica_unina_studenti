@@ -67,7 +67,7 @@ La federico II ha un numero di siti diversi ed oguno ha una funzione diversa, ce
 ## Risorse
 Negli anni gli studenti hanno accomulato appunti, esercizi, libri e tanto altro. Adesso queste risorse sono a vostra disposizione
 
-- (Drive unificato)[https://mega.nz/folder/ctVj3aAb#k8wN3_zKF2qy2agK9nzVMw]
+- [Drive unificato](https://mega.nz/folder/ctVj3aAb#k8wN3_zKF2qy2agK9nzVMw)
  - Appunti in latex curati da me
 	 - [Analisi I](https://www.overleaf.com/read/njtcndwjkvqd)
 	 - [Meccanica e termodinamica](https://www.overleaf.com/read/drkpxywxbxzk)
