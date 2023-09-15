@@ -67,8 +67,7 @@ La federico II ha un numero di siti diversi ed oguno ha una funzione diversa, ce
 ## Risorse
 Negli anni gli studenti hanno accomulato appunti, esercizi, libri e tanto altro. Adesso queste risorse sono a vostra disposizione
 
- - [Drive pubblico appunti](https://drive.google.com/drive/u/0/folders/1qUsEV0m9lZ7UUE9Ln4Jn-QVobMBA_mxx)
- - [Drive pubblico libri](https://drive.google.com/drive/folders/19yOipAlV1icpgvSQ8SiWo53djpPDjJmw)
+- (Drive unificato)[https://mega.nz/folder/ctVj3aAb#k8wN3_zKF2qy2agK9nzVMw]
  - Appunti in latex curati da me
 	 - [Analisi I](https://www.overleaf.com/read/njtcndwjkvqd)
 	 - [Meccanica e termodinamica](https://www.overleaf.com/read/drkpxywxbxzk)
@@ -80,7 +79,9 @@ Negli anni gli studenti hanno accomulato appunti, esercizi, libri e tanto altro.
 
 
 ## Cos'è $\LaTeX$ ?
-Video tutorial su come uare latex per chi volesse provare.
+Come potrete vedere una buona fetta degli appunti nella sezione dedicata sono fatti in un modo che si chiama Latex. No, non ci stiamo riferendo al tipo di plastica ma ad un protocollo di typesetting (scrittura) che permette di scrivere appunti come se fossero dei libri.
+Rende tutto molto leggibile ed è diventato uno standard nel mondo delle pubblicazioni scientifiche e della scrittura.
+Consiglio di usare (questo sito)[https://www.overleaf.com/] per scriverlo e di seguire (questo tutorial)[https://www.youtube.com/watch?v=zqQM66uAig0] per imparare ad usarlo, non è strettamente necessario ma vi tornerà molto utile nella vostra vita da scienziati.
 
 
 
