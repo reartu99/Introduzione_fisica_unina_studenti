@@ -74,17 +74,17 @@ Negli anni gli studenti hanno accomulato appunti, esercizi, libri e tanto altro.
 
 
 ## Cos'è $\LaTeX$ ?
-Come potrete vedere una buona fetta degli appunti nella sezione dedicata sono fatti in un modo che si chiama Latex. No, non ci stiamo riferendo al tipo di plastica ma ad un protocollo di typesetting (scrittura) che permette di scrivere appunti come se fossero dei libri.
-Rende tutto molto leggibile ed è diventato uno standard nel mondo delle pubblicazioni scientifiche e della scrittura.
-Consiglio di usare [questo sito](https://www.overleaf.com/) per scriverlo e di seguire [questo tutorial](https://www.youtube.com/watch?v=zqQM66uAig0) per imparare ad usarlo, non è strettamente necessario ma vi tornerà molto utile nella vostra vita da scienziati.
+Come potrete notare, una buona parte degli appunti nella sezione dedicata è formattata utilizzando un sistema chiamato LaTeX. No, non si tratta del materiale plastico, ma di un protocollo di formattazione del testo che consente di creare appunti in modo simile alla formattazione di un libro. Questo rende il testo estremamente leggibile ed è diventato uno standard nel mondo delle pubblicazioni scientifiche e della scrittura accademica.
+
+Vi consiglio vivamente di utilizzare [questo sito](https://www.overleaf.com/) per scrivere i vostri appunti in LaTeX e di seguire [questo tutorial](https://www.youtube.com/watch?v=zqQM66uAig0) per imparare come utilizzarlo. Sebbene non sia strettamente necessario, l'uso di LaTeX vi sarà estremamente utile nella vostra carriera da scienziati, facilitando la creazione di documenti ben strutturati e formattati in modo professionale.
 
 
 
 ## Rapporto con i compagni di corso
-I compagni di corso sono la risorsa più importante che avrete.
-Siamo tutti nella stessa barca, è un corso difficile e proprio per questo non abbiate paura di chiedere aiuto, sia ai vostri compagni di corso sia ai ragazzi di altri gruppi o anni.
+I vostri compagni di corso rappresentano la risorsa più importante che avrete a disposizione. Siamo tutti nella stessa situazione, e considerando che si tratta di un corso impegnativo, non dovete esitare a chiedere aiuto. Potete rivolgervi sia ai vostri compagni di corso sia agli studenti di altri gruppi o anni.
 
-Se avete bisogno di una mano non esistate a chiedere in giro nelle aule studio e sarete sorpresi dalla disponibilità delle persone!
+Se avete bisogno di assistenza o di chiarimenti, non esitate a fare domande nelle aule studio. Rimarrete sorpresi dalla disponibilità delle persone e dalla volontà di aiutare i colleghi. Siamo tutti qui per imparare e crescere insieme, quindi sfruttate al massimo questa opportunità di collaborazione e sostegno reciproco.
+
 
 ## Luoghi dell'università
 ### Aule studio
