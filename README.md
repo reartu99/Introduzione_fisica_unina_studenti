@@ -121,3 +121,7 @@ Questa app genera dei codici qr che, una volta scannerizzati dal ristoratore, ga
 	 - Altre informazioni importanti sul TOLC si trovano a questo [link](http://www.fisica.unina.it/documents/12375590/12932662/Guida+all%27iscrizione+al+CdL+Fisica/4e5996ae-e827-4eb9-b14d-cf29b37ee05b)
  - Entro quando bisogna immatricolarsi?
 	 - Le iscrizioni aprono il 17 luglio e chiudono il 31 ottobre quest'anno (23-24)
+  - Come posso registrarmi ai corsi?
+         - Connettetevi al sito docenti, usate la barra di ricerca per cercare il profilo del professore, cliccare la sezione degli insegnamenti e iscriversi al corso desiderato
+  - Qual è il processo di iscrizione agli esami?
+         - Per iscriversi agli esami bisogna completare il questionario di gradimento esol corrispondente, poi si può accedere a segrepass e cliccare: Segreteria OnLine -> prenotazioni -> effettua prenotazione -> selezionare l'esame desiderato sotto la colonna denominata "codice"
