@@ -1,9 +1,9 @@
 # Diario di sopravvivenza: fisica
-Ciao a tutti ragazzi sono Arturo, uno studente del secondo anno non che uno dei rappresentanti degli studenti in seno al Consiglio di dipartimento (una specie di rappresentante di istituto per capirci).
+Ciao a tutti ragazzi, sono Arturo, uno studente del secondo anno e uno dei rappresentanti degli studenti all'interno del Consiglio di Dipartimento, il quale funge da sorta di rappresentante di istituto, per farla breve.
 
-State per iniziare un bellissimo percorso in cui oltre ad imparare conoscerete una miriade di persone e farete una molteplicità di bellissime esperienze anche se so bene che l'inizio dell'università può sembrare un poco intimorente.
+Siete pronti a intraprendere un bellissimo percorso in cui, oltre a imparare, avrete l'opportunità di conoscere una miriade di persone e vivere una moltitudine di bellissime esperienze. So bene che l'inizio dell'università può sembrare un po' intimidatorio.
 
-In virtù di ciò ho deciso di scrivere di mio pugno una piccola guida con tutte le risorse di cui uno possa avere bisogno e le risposte alle domande più frequenti!
+Proprio per questo motivo, ho deciso di scrivere personalmente una breve guida che elenca tutte le risorse di cui potreste avere bisogno e fornisce risposte alle domande più frequenti!
 
 ## Primo giorno e giornate tipo
 
