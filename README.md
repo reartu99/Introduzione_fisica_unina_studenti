@@ -1,4 +1,4 @@
-# Diario di sopravvivenza: fisica
+$# Diario di sopravvivenza: fisica
 Ciao a tutti ragazzi, sono Arturo, uno studente del secondo anno e uno dei rappresentanti degli studenti all'interno del Consiglio di Dipartimento, il quale funge da sorta di rappresentante di istituto, per farla breve.
 
 Siete pronti a intraprendere un bellissimo percorso in cui, oltre a imparare, avrete l'opportunità di conoscere una miriade di persone e vivere una moltitudine di bellissime esperienze. So bene che l'inizio dell'università può sembrare un po' intimidatorio.
@@ -14,19 +14,17 @@ Come presto scoprirete durante il primo semestre avrete i seguenti corsi
  - Laboratorio I
  - Geometria
 
-Durante una giornata tipo avrete un numero di ore di lezione, che consigliamo caldamente di seguire, durante le quali entrerete in aula vi siderete e il professore farà lezione.
-Ogni lezione generalmente dura 2 ore a meno che non si tratti dei laboratori, che seguono orari diversi.
+Durante una tipica giornata, avrete un numero di ore di lezione che vi consigliamo vivamente di seguire. Durante queste ore, entrerete in aula, vi siederete e il professore terrà la lezione. Generalmente, ogni lezione dura circa 2 ore, a meno che non si tratti di laboratori, che seguono orari diversi.
 
-Se siete curiosi sulla vostra disposizione oraria e sui professori da voi assegnatevi basta controllare a questo link, mi sembra un ottimo momento per menzionarvi che ci sono due gruppi che hanno due orari diversi, il vostro gruppo di appartenenza (quindi anche i professori che vi sono assegnati) dipende dall'iniziale del vostro cognome, le divisioni di lettere sono sempre trovate al link dell'orario.
+Se siete curiosi riguardo alla vostra disposizione oraria e ai professori assegnati al vostro gruppo, vi basta controllare il seguente link. È importante notare che ci sono due gruppi con orari diversi, e il vostro gruppo di appartenenza, compresi i professori assegnati, dipende dalla lettera iniziale del vostro cognome. Le divisioni di lettere sono sempre disponibili nel link degli orari.
 
-Il primo giorno i professori potrebbero chiedervi di iscrivervi al loro corso attraverso il sito docenti che è linkato qualche sezione più sotto, oltre questo potrebbero invitarvi ad unirsi al teams per una comunicazione più fluida.
+Il primo giorno di lezione, i professori potrebbero chiedervi di iscrivervi al loro corso attraverso il sito dei docenti, il quale è collegato qualche sezione più avanti. Inoltre, potrebbero invitarvi a unirvi a Teams per una comunicazione più fluida.
 
-Alcuni professori terranno lezione solo in aula, altri anche online ed alcuni registreranno perfino. La modalità specifica è a discrezione completa del professore.
+È importante notare che alcuni professori terranno lezioni solo in aula, mentre altri le terranno anche online. Alcuni potrebbero persino registrare le lezioni. La modalità specifica è completamente a discrezione del professore.
 
-Nel nostro corso non ci sono lezioni a frequenza obbligatoria, eccetto il corso di laboratorio che si compone di una parte pratica; la quale, se non svolta durante l'anno, dovrà essere recuperata in sede d'esame.
-Per tanto seguire le lezioni non è un obbligo, nonostante ciò sono una grandissima opportunità per fare domande.
+Nel nostro corso, non ci sono lezioni con frequenza obbligatoria, ad eccezione del corso di laboratorio, che include una parte pratica. Se non parteciperete alle lezioni di laboratorio durante l'anno, dovrete recuperarle in sede d'esame. Pertanto, seguire le lezioni non è un obbligo, ma rappresenta un'ottima opportunità per fare domande e approfondire la vostra comprensione.
 
-In una sezione sottostante trovate dei link per video su come raggiungere le varie aule
+Nella sezione sottostante, troverete dei link a video su come raggiungere le varie aule.
 
 
 
