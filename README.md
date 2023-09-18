@@ -95,7 +95,7 @@ Nel dipartimento di fisica, vicino al pendolo di Focault, si trovano i laborator
 ### Mense
 Nel complesso di Monte San't Angelo ci sono varie mense dove potrete mangiare o acquistare snack.
 ### Aule C (5,6,7,8,9)
-video su come raggiungerle
+[Come raggiungere le aule C](https://youtu.be/i2nhagf6kqQ)
 ### Aula T 6
 [Come raggiungere l'aula T6](https://youtu.be/7pbMJF__YhQ)
 ### Aule F (1,2)
