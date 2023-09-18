@@ -1,4 +1,4 @@
-$# Diario di sopravvivenza: fisica
+# Diario di sopravvivenza: fisica
 Ciao a tutti ragazzi, sono Arturo, uno studente del secondo anno e uno dei rappresentanti degli studenti all'interno del Consiglio di Dipartimento, il quale funge da sorta di rappresentante di istituto, per farla breve.
 
 Siete pronti a intraprendere un bellissimo percorso in cui, oltre a imparare, avrete l'opportunità di conoscere una miriade di persone e vivere una moltitudine di bellissime esperienze. So bene che l'inizio dell'università può sembrare un po' intimidatorio.
