@@ -124,4 +124,10 @@ Questa app genera dei codici qr che, una volta scannerizzati dal ristoratore, ga
   - Come posso registrarmi ai corsi?
          - Connettetevi al sito docenti, usate la barra di ricerca per cercare il profilo del professore, cliccare la sezione degli insegnamenti e iscriversi al corso desiderato
   - Qual è il processo di iscrizione agli esami?
-         - Per iscriversi agli esami bisogna completare il questionario di gradimento esol corrispondente, poi si può accedere a segrepass e cliccare: Segreteria OnLine -> prenotazioni -> effettua prenotazione -> selezionare l'esame desiderato sotto la colonna denominata "codice"
+         - Per iscriversi agli esami bisogna completare il questionario di gradimento esol corrispondente
+         - poi si può accedere a segrepass e cliccare: Segreteria OnLine -> prenotazioni -> effettua prenotazione -> selezionare l'esame desiderato sotto la colonna denominata "codice"
+  - Dove posso trovare il calendario accademico con le date importanti?
+         - [Questo link](http://www.unina.it/didattica/sportello-studenti/calendario-accademico)
+  - Cosa devo fare se ho bisogno di assistenza con una materia specifica o ho difficoltà nello studio?
+         - Entrate in aula studio e chiedete una mano! Personalmente sono sempre disponibile, come tutti gli altri rappresentanti e tutti gli studenti di fisica!
+         - Inoltre si può contattare il professore della materia con cui si hanno difficoltà e sarà felicissimo di organizzare quelli che si chiamano "ricevimenti" dove vi darà una mano privatamente e in maniera efficace
