@@ -16,9 +16,9 @@ Come presto scoprirete durante il primo semestre avrete i seguenti corsi
 
 Durante una tipica giornata, avrete un numero di ore di lezione che vi consigliamo vivamente di seguire. Durante queste ore, entrerete in aula, vi siederete e il professore terrà la lezione. Generalmente, ogni lezione dura circa 2 ore, a meno che non si tratti di laboratori, che seguono orari diversi.
 
-Se siete curiosi riguardo alla vostra disposizione oraria e ai professori assegnati al vostro gruppo, vi basta controllare il seguente link. È importante notare che ci sono due gruppi con orari diversi, e il vostro gruppo di appartenenza, compresi i professori assegnati, dipende dalla lettera iniziale del vostro cognome. Le divisioni di lettere sono sempre disponibili nel link degli orari.
+Se siete curiosi riguardo alla vostra disposizione oraria e ai professori assegnati al vostro gruppo, vi basta controllare il [seguente link](http://www.fisica.unina.it/orario-delle-lezioni-fisica). È importante notare che ci sono due gruppi con orari diversi, e il vostro gruppo di appartenenza, compresi i professori assegnati, dipende dalla lettera iniziale del vostro cognome. Le divisioni di lettere sono sempre disponibili nel link degli orari.
 
-Il primo giorno di lezione, i professori potrebbero chiedervi di iscrivervi al loro corso attraverso il sito dei docenti, il quale è collegato qualche sezione più avanti. Inoltre, potrebbero invitarvi a unirvi a Teams per una comunicazione più fluida.
+Il primo giorno di lezione, i professori potrebbero chiedervi di iscrivervi al loro corso attraverso il [sito docenti](https://www.docenti.unina.it/#!/search). Inoltre, potrebbero invitarvi a unirvi a Teams per una comunicazione più fluida.
 
 È importante notare che alcuni professori terranno lezioni solo in aula, mentre altri le terranno anche online. Alcuni potrebbero persino registrare le lezioni. La modalità specifica è completamente a discrezione del professore.
 
