@@ -30,23 +30,18 @@ Nella sezione sottostante, troverete dei link a video su come raggiungere le var
 
 
 ## Crediti e voti
-Adesso ci chiederete, come funzionano i voti? Cosa sono i cfu? Come si svolgono gli esami?
-Ogni corso che farete ha ad esso associato un esame, ogni professore decide entro certe guideline come svolgere tale esame.
-Alcuni professori danno la possibilità di svolgere delle prove intercorso che, se superate con successo, vi fanno accedere direttamente all'orale senza sostenere una prova scritta finale.
-Altri professori ancora svolgono una prova scritta finale seguita da un orale.
+Ora vi spiegheremo come funzionano i voti, cosa sono i CFU e come si svolgono gli esami. Ogni corso che frequenterete avrà associato un esame, e ogni professore deciderà all'interno di determinate linee guida come condurre tale esame. Alcuni professori offrono la possibilità di sostenere prove intercorso che, se superate con successo, vi permetteranno di accedere direttamente all'esame orale senza dover affrontare una prova scritta finale. Altri professori, invece, organizzano una prova scritta finale seguita da un esame orale.
 
-Ci sono 3/4 periodi in cui è possibile sostenere esami:
+Ci sono generalmente 3/4 periodi durante l'anno in cui è possibile sostenere gli esami:
 
- - La sessione invernale, che generalmente va da gennaio a marzo
- - La sessione estiva, che generalmente va da Maggio a Luglio
- - Il continuo della sessione estiva che comprende qualche appello a settembre e ottobre
- - Una sessione di recupero destinata esclusivamente ai ragazzi fuori corso
+1) La sessione invernale, che di solito va da gennaio a marzo.
+2) La sessione estiva, che di solito va da maggio a luglio.
+3) Il proseguimento della sessione estiva, che comprende alcuni appelli a settembre e ottobre.
+4) Una sessione di recupero destinata esclusivamente agli studenti fuori corso.
 
-Ad ogni esame è associato un numero di crediti formativi universitari (CFU), sono in base 3 quindi vanno da 6 crediti a 15 crediti.
-Questa discrepanza è data dal fatto che ogni corso necessita di un impegno di tempo differente (che va dalle ore in aula alle ore di studio a casa) e il voto finale rispecchia questa discrepanza.
+A ciascun esame sono associati un certo numero di crediti formativi universitari (CFU), che sono divisi in base 3, quindi vanno da 6 crediti a 15 crediti. Questa variazione dipende dal fatto che ogni corso richiede un diverso impegno di tempo, che può variare dalle ore in aula alle ore di studio a casa. Il voto finale riflette questa diversità.
 
-Difatti ci sono 2 medie dei voti, quella "diretta" e quella pesata. Quella pesata tiene conto anche dei CFU che un dato corso ha, dando più "peso" a voti presi in esami con più CFU.
-Le vostre medie possono essere calcolate su segrepass.
+Di fatto, esistono due medie dei voti, una "diretta" e una pesata. La media pesata tiene conto anche dei CFU di un dato corso, dando più importanza ai voti ottenuti negli esami con un maggior numero di CFU. Potrete calcolare le vostre medie su Segrepass, il sistema online dell'università.
 
 
 
