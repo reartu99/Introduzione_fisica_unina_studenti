@@ -5,7 +5,7 @@ State per iniziare un bellissimo percorso in cui oltre ad imparare conoscerete u
 
 In virtù di ciò ho deciso di scrivere di mio pugno una piccola guida con tutte le risorse di cui uno possa avere bisogno e le risposte alle domande più frequenti!
 
-## Primo giorno
+## Primo giorno e giornate tipo
 
 Come presto scoprirete durante il primo semestre avrete i seguenti corsi
 
@@ -25,6 +25,8 @@ Alcuni professori terranno lezione solo in aula, altri anche online ed alcuni re
 
 Nel nostro corso non ci sono lezioni a frequenza obbligatoria, eccetto il corso di laboratorio che si compone di una parte pratica; la quale, se non svolta durante l'anno, dovrà essere recuperata in sede d'esame.
 Per tanto seguire le lezioni non è un obbligo, nonostante ciò sono una grandissima opportunità per fare domande.
+
+In una sezione sottostante trovate dei link per video su come raggiungere le varie aule
 
 
 
@@ -81,7 +83,7 @@ Negli anni gli studenti hanno accomulato appunti, esercizi, libri e tanto altro.
 ## Cos'è $\LaTeX$ ?
 Come potrete vedere una buona fetta degli appunti nella sezione dedicata sono fatti in un modo che si chiama Latex. No, non ci stiamo riferendo al tipo di plastica ma ad un protocollo di typesetting (scrittura) che permette di scrivere appunti come se fossero dei libri.
 Rende tutto molto leggibile ed è diventato uno standard nel mondo delle pubblicazioni scientifiche e della scrittura.
-Consiglio di usare (questo sito)[https://www.overleaf.com/] per scriverlo e di seguire (questo tutorial)[https://www.youtube.com/watch?v=zqQM66uAig0] per imparare ad usarlo, non è strettamente necessario ma vi tornerà molto utile nella vostra vita da scienziati.
+Consiglio di usare [questo sito](https://www.overleaf.com/) per scriverlo e di seguire [questo tutorial](https://www.youtube.com/watch?v=zqQM66uAig0) per imparare ad usarlo, non è strettamente necessario ma vi tornerà molto utile nella vostra vita da scienziati.
 
 
 
@@ -104,7 +106,18 @@ video su come raggiungerle
 ### Aula T 6
 [Come raggiungere l'aula T6](https://youtu.be/7pbMJF__YhQ)
 ### Aule F (1,2)
-video su come raggiungerle
+[Come raggiungere le aule F](https://youtu.be/Ct7NmlFcLfk)
+
+
+
+## Offerta per il pranzo ADISURC
+È attivo il servizio di ristorazione con tariffa agevolata presso vari punti ristoro sia in loco all'università che in giro per Napoli.
+Ogni studente può gratuitamente attivare questo servizio seguendo i seguenti step
+1) Ci si accredita sul [sito dell'adisurc]( https://www.adisurcampania.it/ ) seguendo la procedura per l'iscrizione usando SPID o CIE
+2) Fare richiesta per ristorazione sul portale del sito
+3) Installare l'app ADISURC.EAT
+4) Associare l'account del sito all'app tramite codice QR
+Questa app genera dei codici qr che, una volta scannerizzati dal ristoratore, garantiscono tariffe agevolate.
 
 
 ## FAQ
